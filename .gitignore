@@ -1,0 +1,11 @@
+# C/C++
+*.exe
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
